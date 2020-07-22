@@ -7,6 +7,8 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 Adding READMe.md file
 
+More changes in muyfeature branch too 
+
 Hello adding readme content here
 
 Devlop
